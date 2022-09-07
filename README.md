@@ -7,3 +7,5 @@ For servers, do the same but exclude Optifine and Xaero's Minimap. If you try to
 it will crash on startup.
 
 unzip "Config" in .minecraft. For servers, extract the folder to the root server folder.
+
+Extract the "Addons" folder into .minecraft. Without this, the custom Lucky Blocks will not work.
