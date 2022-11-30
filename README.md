@@ -1,4 +1,7 @@
 # Aether-Modpack-1.12.2
+
+//WARNING! GITHUB WON'T LET ME ADD A MOD DUE TO FILE SIZE. MAKE SURE TO DOWNLOAD "Fossils and Archeology: Revival" version 8.0.6 FROM https://www.curseforge.com/minecraft/mc-mods/fossils/files
+
 Curseforge sucks so I used github instead.
 
 So after downloading everything, drop the mods(basically all of the .jar files) into your mods folder in .minecraft.
